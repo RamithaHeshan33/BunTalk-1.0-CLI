@@ -1,0 +1,19 @@
+
+Employee ID: 101
+Employee Name: Nimal
+Employee Contact N0: 0778121761
+Employee Salary: 30000
+Employee Birthdate: 2002/12/23
+께께께께께께
+Employee ID: 101
+Employee Name: Ramitha
+Employee Contact N0: 0779713127
+Employee Salary: 25000
+Employee Birthdate: 2002/06/06
+께께께께께께
+Employee ID: 105
+Employee Name: Kamal
+Employee Contact N0: 0778121761
+Employee Salary: 20000
+Employee Birthdate: 2002/12/23
+께께께께께께

@@ -1,0 +1,5 @@
+1001 HotDog 100
+1002 Egg_Bun 125
+1003 Fish_Bun 120
+1004 Sos_Bun 140
+110 Hotdog 456
